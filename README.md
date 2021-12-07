@@ -5,11 +5,11 @@ Contains a Jupyter notebook with all models and figures created. Results in tabl
 Relevant data is added to recreate the study but paths will need to be adjusted in the notebook.
 
 Required Packages:
-numpy
-pandas
-matplotlib
-seaborn
-RDKit
-sklearn
-TensorFlow
+numpy,
+pandas,
+matplotlib,
+seaborn,
+RDKit,
+sklearn,
+TensorFlow,
 Keras
